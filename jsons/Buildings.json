@@ -1,0 +1,27 @@
+[
+  {
+		"name": "Statue of Liberty",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 2},
+		"uniques": ["[+1 Production] from every specialist [in all cities]","Free Social Policy", "Only available <after adopting [Freedom]>"],
+		"requiredTech": "Replaceable Parts",
+		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
+	},
+	{
+		"name": "Kremlin",
+		"culture": 1,
+		"isWonder": true,
+		"uniques": ["[+50]% Production when constructing [Armored] units [in all cities]","Free Social Policy","Only available <after adopting [Order]>"],
+		"requiredTech": "Railroads",
+		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
+	},
+{
+        "name": "Prora", 
+        "happiness": 2,
+        "isWonder": true,
+        "uniques": ["[+1 Happiness] per [2] social policies adopted","Free Social Policy","Only available <after adopting [Autocracy]>"],
+        "requiredTech": "Flight",
+        "quote": "'This loss (of freedom) means the fading from human life of values infinitely precious to it. There only remain ironbound conditions of employment and trivial amusements for leisure.'  - A.N. Whitehead"
+    }
+]
