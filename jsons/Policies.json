@@ -442,15 +442,6 @@
 				"column": 2
 			},
 			{
-                		"name": "Democracy",
-                		"uniques": [
-                    			"[-50]% Unhappiness from [Specialists] [in all cities]"
-                				],
-                		"requires": ["Civil Society","Universal Healthcare","Capitalism"],
-                		"row": 2,
-                		"column": 5
-            		},
-			{
 				"name": "Urbanization",
 				"uniques": ["[+1 Happiness] from every [Water Mill]","[+1 Happiness] from every [Hospital]","[+1 Happiness] from every [Medical Lab]"],
 				"requires": ["Universal Healthcare","Capitalism"],
@@ -503,16 +494,6 @@
 				"column": 4
 			},
 			{
-                		"name": "Fascism",
-                		"uniques": [
-                    			"Quantity of strategic resources produced by the empire +[100]%",
-                    			"[+2] Movement <for [Great General] units>"
-                				],
-                		"requires": ["Militarism"],
-                		"row": 2,
-                		"column": 2
-            },
-			{
 				"name": "Autocracy Complete",
 				"uniques": ["[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>"]
 			}
@@ -559,11 +540,7 @@
 	    {
                 "name": "Communism",
                 "requires": ["Workers' Faculties"],
-                "uniques": [
-                    "[+2 Production] [in all cities]",
-                    "[+1 Production] from every [Mine]",
-                    "[+1 Production] from every [Quarry]"
-                ],
+                "uniques": ["[+2 Production] [in all cities]","[+1 Production] from every [Mine]","[+1 Production] from every [Quarry]"],
                 "row": 3,
                 "column": 3
             },
