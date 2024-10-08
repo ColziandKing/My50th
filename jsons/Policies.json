@@ -397,15 +397,9 @@
 				"name": "Secularism",
 				"uniques": ["[+2 Science] from every specialist [in all cities]"],
 				"row": 1,
-				"column": 1
+				"column": 3
 			},
-			{
-				"name": "Humanism",
-				"uniques": ["[Great Scientist] is earned [25]% faster"],
-				"row": 1,
-				"column": 5
-			},
-						{
+				{
 				"name": "Sovereignty",
 				"uniques": ["[+1 Gold] from all [Science] buildings"],
 				"requires": ["Secularism"],
@@ -413,28 +407,35 @@
 				"column": 1
 			},
 			{
+				"name": "Humanism",
+				"uniques": ["[Great Scientist] is earned [25]% faster"],
+				"requires": ["Secularism"],
+				"row": 2,
+				"column": 3
+			},
+			{
 				"name": "Free Thought",
 				"uniques": ["[+1 Science] from every [Trading post]", "[+17]% [Science] from every [University]"],
-				"requires": ["Humanism"],
+				"requires": ["Secularism"],
 				"row": 2,
 				"column": 5
 			},
 			{
 				"name": "Scientific Revolution",
 				"uniques": ["Science gained from research agreements [+50]%"],
-				"requires": ["Secularism","Humanism"],
-				"row": 2,
-				"column": 3
+				"requires": ["Sovereignty","Humanism"],
+				"row": 3,
+				"column": 1
 			},
 			{
 				"name": "Weather Engineering",
-				"requires": ["Scientific Revolution"],
+				"requires": ["Humanism","Free Thought"],
 				"uniques": [
 					"[+2 Gold, +2 Science] [in all cities]",
 					"[+10]% growth [in all cities] <during a Golden Age>"
 				],
 				"row": 3,
-				"column": 3
+				"column": 5
 			},
 			{
 				"name": "Rationalism Complete",
@@ -539,7 +540,7 @@
 			},
 			{
 				"name": "Scorched Earth",
-				"requires": ["Militarism"],
+				"requires": ["United Front","Militarism"],
 				"uniques": [
 					"[+15]% Strength <vs cities>",
 					"Cities are razed [2] times as fast",
@@ -562,7 +563,7 @@
 			{
 				"name": "Total War",
 				"uniques": ["[+25]% Production when constructing [Military] units [in all cities]", "New [Military] units start with [15] Experience [in all cities]"],
-				"requires": ["Police State"],
+				"requires": ["Fortified Borders","Police State"],
 				"row": 3,
 				"column": 5
 			},
