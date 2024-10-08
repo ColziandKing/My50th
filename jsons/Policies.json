@@ -519,17 +519,26 @@
 				{
 			"name": "Workers' Faculties",
 			"uniques": ["[+25]% [Science] from every [Factory]", "[+100]% Production when constructing [Factory] buildings [in all cities]"],
-			"requires": ["Patriotic War", "Young Pioneers"],
+			"requires": ["Young Pioneers"],
 			"row": 2,
-			"column": 3
+			"column": 1
 		},
         {
             "name": "Academy of Sciences",
-            "requires": ["Workers' Faculties"],
+            "requires": ["Patriotic War"],
 			"uniques": ["[+1 Happiness] from every [Observatory]","[+1 Happiness] from every [Public School]","[+1 Happiness] from every [Research Lab]"],
-            "row": 3,
-            "column": 2
+            "row": 2,
+            "column": 3
         },
+	{
+                "name": "Socialism",
+                "requires": ["Patriotic War", "Young Pioneers"],
+                "uniques": [
+                    "[-15]% maintenance cost for buildings [in all cities]"
+                ],
+                "row": 2,
+                "column": 2
+            },
         {
             "name": "Five-Year Plan",
             "requires": ["Workers' Faculties"],
@@ -537,6 +546,17 @@
             "row": 3,
             "column": 4
         },
+            {
+                "name": "Communism",
+                "requires": ["Socialism"],
+                "uniques": [
+                    "[+2 Production] [in all cities]",
+                    "[+1 Production] from every [Mine]",
+                    "[+1 Production] from every [Quarry]"
+                ],
+                "row": 3,
+                "column": 3
+            },
         {
             "name": "Order Complete",
 			"uniques": ["[+1 Food, +1 Production, +1 Science, +1 Gold, +1 Culture] [in all cities]"]
