@@ -350,13 +350,13 @@
 			},
 			{
 				"name": "Fine Arts",
-				"requires": ["Cultural Centers"],
 				"uniques": ["[50]% of excess happiness converted to [Culture]"],
 				"row": 1,
 				"column": 4
 			},
 			{
                 		"name": "Populism",
+				"requires": ["Cultural Centers"],
                 		"uniques": ["[+25]% Great Person generation [in all cities]","[+100]% weight to this choice for AI decisions"],
                 		"row": 2,
                 		"column": 1
