@@ -545,10 +545,9 @@
 },
 	{
 		"name": "Naturalism",
-		"era": "Industrial era",
+		"era": "Atomic era",
 		"uniques": [
 			"[+1 Food, +1 Culture] [in all cities]",
-			"Only available <before adopting [Mechanization]>",
 			"Only available <before adopting [Bionics]>"
 		],
 		"policies": [
@@ -558,30 +557,31 @@
 					"[+10]% [Food] from every [Coal Plant]",
 					"[-15]% [Production] from every [Coal Plant]",
 					"[+1 Happiness] from every [Recycling Plant]",
-					"[+1 Happiness] from every [Carbon Capture]"
+					"[+1 Happiness] from every [Solar Plant]"
 				],
 				"row": 1,
 				"column": 3
 			},
 			{
-				"name": "Physiolatry",
-				"requires": ["Emissions Standards"],
+				"name": "Entrepreneurship",
 				"uniques": [
-					"[+1 Faith, +1 Food, -2 Science] from every [Greenhouse]",
-					"[+1 Faith, +1 Food, -2 Science] from every [Protected Area]",
-					"[+1 Faith, +1 Food, -2 Science] from every [Arcology Dome]"
+					"[Great Merchant] is earned [20]% faster",
+					"[+1 Science] from every [Market]",
+					"[+1 Science] from every [Factory]",
+					"[+1 Science] from every [Public School]"
 				],
+				"requires": ["Emissions Standards"],
 				"row": 2,
-				"column": 2
+				"column": 4
 			},
 			{
 				"name": "Ecodefense",
 				"requires": ["Emissions Standards"],
 				"uniques": [
-					"[+15]% Strength <for [All] units> <when fighting in [Tree plantation] tiles>",
-					"[+15]% Strength <for [All] units> <when fighting in [Nature preserve] tiles>",
-					"[+15]% Strength <for [All] units> <when fighting in [Artificial oasis] tiles>",
-					"[+15]% Strength <for [All] units> <when fighting in [Artificial glacier] tiles>",
+					"[+15]% Strength <for [All] units> <when fighting in [Plains] tiles>",
+					"[+15]% Strength <for [All] units> <when fighting in [Jungle] tiles>",
+					"[+15]% Strength <for [All] units> <when fighting in [Hill] tiles>",
+					"[+15]% Strength <for [All] units> <when fighting in [Forest] tiles>",
 					"[+15]% Strength <for [All] units> <when fighting in [Grassland] tiles>"
 				],
 				"row": 2,
@@ -589,7 +589,7 @@
 			},
 			{
 				"name": "Harmony",
-				"requires": ["Physiolatry"],
+				"requires": ["Entrepreneurship"],
 				"uniques": [
 					"[+1 Happiness, +1 Food, +1 Faith, +1 Culture, -3 Production] <in cities with at least [7] [Population]>",
 					"Resting point for Influence with City-States is increased by [15]",
@@ -600,11 +600,11 @@
 			},
 			{
 				"name": "Conservation",
-				"requires": ["Physiolatry"],
+				"requires": ["Entrepreneurship"],
 				"uniques": [
-					"[+1 Gold] from every [Farmer]",
+					"[+1 Gold] from every [Worker]",
 					"[+1 Gold] from [Fresh water] tiles [in all cities]",
-					"[+1 Gold] from every [Rainwater Purifier]"
+					"[+1 Gold] from every [Polder]"
 				],
 				"row": 3,
 				"column": 3
@@ -614,25 +614,17 @@
 				"uniques": [
 					"Empire enters golden age",
 					"[50]% Golden Age length",
-					"May buy [Great Farmer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+					"May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
 				]
 			}
 		]
 	},
 	{
 		"name": "Bionics",
-		"era": "Industrial era",
-		"priorities": {
-			"Neutral": 20,
-			"Cultural": 20,
-			"Diplomatic": 20,
-			"Domination": 20,
-			"Scientific": 20
-		},
+		"era": "Information era",
 		"uniques": [
 			"[+2 Science] [in all cities]",
-			"Only available <before adopting [Naturalism]>",
-			"Only available <before adopting [Mechanization]>"
+			"Only available <before adopting [Naturalism]>"
 		],
 		"policies": [
 			{
@@ -657,7 +649,7 @@
 				"name": "Eugenics",
 				"requires": ["Mutagens"],
 				"uniques": [
-					"[+5]% Strength <for [Personnel] units>",
+					"[+5]% Strength <for [Military] units>",
 					"[-25]% Unhappiness from [Specialists] [in all cities]",
 					"[+2 Faith] <in cities with at least [2] [Specialists]>"
 				],
@@ -668,29 +660,33 @@
 				"name": "Cybernetics",
 				"requires": ["Mutagens"],
 				"uniques": [
-					"No damage penalty for wounded units <for [Personnel] units>",
+					"No damage penalty for wounded units <for [Melee] units>",
 					"[+1 Production] per [10] population [in all cities]"
 				],
 				"row": 2,
 				"column": 4
 			},
 			{
-				"name": "Transhumanism",
+				"name": "Scorched Earth",
 				"requires": ["Eugenics", "Cybernetics"],
 				"uniques": [
+					"[+15]% Strength <vs cities>",
+					"Cities are razed [2] times as fast",
+					"No movement cost to pillage <for [Melee] units>",
+					"[+2] Movement <for [Great General] units>",
 					"[+25]% Great Person generation [in all cities]",
 					"[Great General] is earned [25]% faster",
 					"[Faith] cost of purchasing items in cities [-10]%"
 				],
-				"row": 3,
-				"column": 3
+				"row": 1,
+				"column": 5
 			},
 			{
 				"name": "Bionics Complete",
 				"uniques": [
 					"Free Great Person",
-					"[+10]% Production when constructing [Utopia Project] wonders [in all cities]",
-					"[+15]% Production when constructing [Terraformer Part] units [in all cities]"
+					"[+10]% Production when constructing [Science] buildings [in all cities]",
+					"[+15]% Production when constructing [Military] units [in all cities]"
 				]
 			}
 		]
