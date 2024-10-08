@@ -1,3 +1,470 @@
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyBranchIcons/Adaptation
+  rotate: false
+  xy: 436, 696
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Bionics
+  rotate: false
+  xy: 112, 264
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Collectivism
+  rotate: false
+  xy: 1906, 1992
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Workers' Union
+  rotate: false
+  xy: 1906, 1992
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Constitution
+  rotate: false
+  xy: 494, 696
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Expansionism
+  rotate: false
+  xy: 404, 490
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Mechanization
+  rotate: false
+  xy: 660, 854
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Monopoly
+  rotate: false
+  xy: 660, 796
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Naturalism
+  rotate: false
+  xy: 876, 1012
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Remediation
+  rotate: false
+  xy: 876, 1012
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Singularity
+  rotate: false
+  xy: 120, 148
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Sovereignty
+  rotate: false
+  xy: 178, 90
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Supremacy
+  rotate: false
+  xy: 236, 33
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Theocracy
+  rotate: false
+  xy: 984, 1178
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Autocracy
+  rotate: false
+  xy: 1408, 1668
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Automation
+  rotate: false
+  xy: 1624, 1884
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Castle Doctrine
+  rotate: false
+  xy: 328, 548
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Centralization
+  rotate: false
+  xy: 1790, 1992
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Citizen Militia
+  rotate: false
+  xy: 220, 381
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Conservation
+  rotate: false
+  xy: 436, 638
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Corporate Personhood
+  rotate: false
+  xy: 710, 912
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Courier Service
+  rotate: false
+  xy: 818, 1020
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cybernetics
+  rotate: false
+  xy: 926, 1128
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Deregulation
+  rotate: false
+  xy: 1142, 1344
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Differential Rationing
+  rotate: false
+  xy: 1358, 1560
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Digitization
+  rotate: false
+  xy: 1466, 1668
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Discipline
+  rotate: false
+  xy: 1574, 1776
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Doctrine
+  rotate: false
+  xy: 1682, 1884
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Ecodefense
+  rotate: false
+  xy: 62, 40
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Emissions Standards
+  rotate: false
+  xy: 170, 264
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Enlightenment
+  rotate: false
+  xy: 228, 265
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Transhumanism
+  rotate: false
+  xy: 228, 265
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Entrepreneurship
+  rotate: false
+  xy: 278, 421
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Equipment Upgrades
+  rotate: false
+  xy: 278, 363
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Eugenics
+  rotate: false
+  xy: 346, 490
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/God Emperor
+  rotate: false
+  xy: 462, 464
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Harmony
+  rotate: false
+  xy: 404, 432
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Holy Scriptures
+  rotate: false
+  xy: 462, 406
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Indulgences
+  rotate: false
+  xy: 452, 348
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Legislative Process
+  rotate: false
+  xy: 394, 316
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Logistics
+  rotate: false
+  xy: 510, 290
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mass Consumption
+  rotate: false
+  xy: 568, 290
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mutagens
+  rotate: false
+  xy: 718, 854
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Nationalization
+  rotate: false
+  xy: 876, 1070
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Parallel Markets
+  rotate: false
+  xy: 934, 1070
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Physiolatry
+  rotate: false
+  xy: 934, 1012
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Planned Economy
+  rotate: false
+  xy: 1092, 1286
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Political Officers
+  rotate: false
+  xy: 1150, 1286
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Privatization
+  rotate: false
+  xy: 1366, 1444
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Protected Speech
+  rotate: false
+  xy: 1524, 1660
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Public Good
+  rotate: false
+  xy: 1582, 1718
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Re-Education
+  rotate: false
+  xy: 1856, 1934
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Reclaimers
+  rotate: false
+  xy: 1914, 1934
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Representation
+  rotate: false
+  xy: 1798, 1876
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Restorers
+  rotate: false
+  xy: 1856, 1876
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Sample Analysis
+  rotate: false
+  xy: 1914, 1876
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Scorched Earth
+  rotate: false
+  xy: 1972, 1934
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Shared Vision
+  rotate: false
+  xy: 120, 206
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Skepticism
+  rotate: false
+  xy: 120, 90
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Spoils of War
+  rotate: false
+  xy: 120, 32
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Statecraft
+  rotate: false
+  xy: 178, 32
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Technocracy
+  rotate: false
+  xy: 768, 962
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Triumph
+  rotate: false
+  xy: 1200, 1394
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Urbanization
+  rotate: false
+  xy: 1632, 1826
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Voting Rights
+  rotate: false
+  xy: 610, 738
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Weather Engineering
+  rotate: false
+  xy: 668, 738
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 
 game.png
 size: 2048, 512
