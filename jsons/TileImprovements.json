@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "Brazilwood Camp",
-		"uniqueTo": "Brazil",
+		"uniqueTo": "Ethiopia",
 		"terrainsCanBeBuiltOn": ["Jungle"],
 		"gold": 2,
 		"turnsToBuild": 7,
@@ -20,7 +20,7 @@
 	},
 		{
 		"name": "Feitoria",
-		"uniqueTo": "Portugal",
+		"uniqueTo": "Spain",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 7,
 		"gold": 1,
@@ -30,7 +30,7 @@
 	},
 	{
 		"name": "Kasbah",
-		"uniqueTo": "Morocco",
+		"uniqueTo": "Songhai",
 		"terrainsCanBeBuiltOn": ["Desert","Flood plains"],
 		"food": 1,
 		"production": 1,
