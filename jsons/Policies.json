@@ -409,14 +409,12 @@
 			{
 				"name": "Humanism",
 				"uniques": ["[Great Scientist] is earned [25]% faster"],
-				"requires": ["Secularism"],
 				"row": 2,
 				"column": 3
 			},
 			{
 				"name": "Free Thought",
 				"uniques": ["[+1 Science] from every [Trading post]", "[+17]% [Science] from every [University]"],
-				"requires": ["Secularism"],
 				"row": 2,
 				"column": 5
 			},
