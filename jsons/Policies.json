@@ -466,19 +466,19 @@
                     		"Militaristic City-States grant units [2] times as fast when you are at war with a common nation","[-100]% weight to this choice for AI decisions"
                 			],
                 			"row": 1,
-                			"column": 2
+                			"column": 1
             		},
 			{
 				"name": "Elite Forces",
 				"uniques": ["[+25]% Strength <for [Wounded] units>"],
 				"row": 1,
-				"column": 4
+				"column": 3
 			},
 			{
 				"name": "Fortified Borders",
 				"uniques": ["[+1 Happiness] from every [Castle]","[+1 Happiness] from every [Arsenal]","[+1 Happiness] from every [Military Base]"],
 				"row": 1,
-				"column": 6
+				"column": 5
 			},
 			{
 				"name": "Militarism",
@@ -504,7 +504,7 @@
 					"[+2] Movement <for [Great General] units>"
 				],
 				"row": 3,
-				"column": 2
+				"column": 1
 			},
 			{
                 		"name": "Fascism",
@@ -514,14 +514,14 @@
                 		],
                 		"requires": ["Militarism","Police State"],
                 		"row": 3,
-                		"column": 4
+                		"column": 3
             		},
 			{
 				"name": "Total War",
 				"uniques": ["[+25]% Production when constructing [Military] units [in all cities]", "New [Military] units start with [15] Experience [in all cities]"],
 				"requires": ["Police State"],
 				"row": 3,
-				"column": 6
+				"column": 5
 			},
 			{
 				"name": "Autocracy Complete",
@@ -558,7 +558,7 @@
             "requires": ["Patriotic War"],
 			"uniques": ["[+1 Happiness] from every [Observatory]","[+1 Happiness] from every [Public School]","[+1 Happiness] from every [Research Lab]"],
             "row": 2,
-            "column": 3
+            "column": 5
         },
 	{
                 "name": "Socialism",
@@ -567,7 +567,7 @@
                     "[-15]% maintenance cost for buildings [in all cities]"
                 ],
                 "row": 2,
-                "column": 2
+                "column": 3
             },
         {
             "name": "Five-Year Plan",
@@ -585,7 +585,7 @@
                     "[+1 Production] from every [Quarry]"
                 ],
                 "row": 3,
-                "column": 3
+                "column": 2
             },
         {
             "name": "Order Complete",
