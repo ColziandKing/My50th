@@ -402,13 +402,13 @@
 				{
 				"name": "Sovereignty",
 				"uniques": ["[+1 Gold] from all [Science] buildings"],
-				"requires": ["Secularism"],
 				"row": 2,
 				"column": 1
 			},
 			{
 				"name": "Humanism",
 				"uniques": ["[Great Scientist] is earned [25]% faster"],
+				"requires": ["Secularism"],
 				"row": 2,
 				"column": 3
 			},
