@@ -308,6 +308,19 @@
 				"column": 5
 			},
 			{
+				"name": "Ecodefense",
+				"requires": ["Navigation School"],
+				"uniques": [
+					"[+15]% Strength <for [All] units> <when fighting in [Plains] tiles>",
+					"[+15]% Strength <for [All] units> <when fighting in [Jungle] tiles>",
+					"[+15]% Strength <for [All] units> <when fighting in [Hill] tiles>",
+					"[+15]% Strength <for [All] units> <when fighting in [Forest] tiles>",
+					"[+15]% Strength <for [All] units> <when fighting in [Grassland] tiles>"
+				],
+				"row": 3,
+				"column": 1
+			},
+			{
 				"name": "Treasure Fleets",
 				"uniques": ["[+4 Gold] from each Trade Route"],
 				"requires": ["Navigation School"],
