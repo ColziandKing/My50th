@@ -572,7 +572,7 @@
 				],
 				"requires": ["Emissions Standards"],
 				"row": 2,
-				"column": 4
+				"column": 2
 			},
 			{
 				"name": "Ecodefense",
@@ -678,7 +678,7 @@
 					"[Great General] is earned [25]% faster",
 					"[Faith] cost of purchasing items in cities [-10]%"
 				],
-				"row": 1,
+				"row": 3,
 				"column": 5
 			},
 			{
