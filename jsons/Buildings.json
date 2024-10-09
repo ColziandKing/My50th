@@ -23,5 +23,12 @@
         "uniques": ["[+1 Happiness] per [2] social policies adopted","Free Social Policy","Only available <after adopting [Autocracy]>"],
         "requiredTech": "Flight",
         "quote": "'This loss (of freedom) means the fading from human life of values infinitely precious to it. There only remain ironbound conditions of employment and trivial amusements for leisure.'  - A.N. Whitehead"
-    }
+    },
+	{
+		"name": "Utopia Project",
+		"cost": 1500,
+		"isNationalWonder": true,
+		"uniques": ["Hidden until [7] social policy branches have been completed", "Triggers a global alert upon build start",
+			"Triggers a Cultural Victory upon completion", "Hidden when [Cultural] Victory is disabled", "Cannot be hurried"]
+	}
 ]
