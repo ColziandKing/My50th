@@ -253,23 +253,30 @@
 				"uniques": ["[-50]% maintenance on road & railroads", "[+2 Gold] from each Trade Route"
 				],
 				"row": 1,
-				"column": 4
+				"column": 3
 			},
 			{
 				"name": "Entrapreneurship",
 				"uniques": [ "[+100]% Gold from Great Merchant trade missions","[Great Merchant] is earned [25]% faster"],
 				"requires": ["Wagon Trains"],
 				"row": 2,
-				"column": 2
+				"column": 1
 			},
 			{
 				"name": "Mercantilism",
 				"uniques": ["[Gold] cost of purchasing items in cities [-25]%", "[+1 Science] from every [Mint]", "[+1 Science] from every [Market]",
 					"[+1 Science] from every [Bank]", "[+1 Science] from every [Stock Exchange]"],
-				"requires": ["Mercenary Army"],
 				"row": 2,
-				"column": 4
+				"column": 3
 			},
+			{
+            			"name": "Trade Unions",
+            			"uniques": [
+                			"[+1 Gold] from every [Trading post]","[+2 Culture] from each Trade Route","[+1 Food] from every [Trading post]"
+            				],
+            			"row": 2,
+            			"column": 5
+        		},
 			{
 				"name": "Protectionism",
 				"uniques": ["[+2] Happiness from each type of luxury resource"],
@@ -279,7 +286,7 @@
 			},
 			{
 				"name": "Commerce Complete",
-				"uniques": ["[+1 Gold] from every [Trading post]",
+				"uniques": ["[+1 Gold] from every [Customs house]",
 					"May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
 				]
 			}
