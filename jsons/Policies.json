@@ -246,7 +246,7 @@
 	},
 	{
 		"name": "Commerce",
-		"uniques": ["[+25]% [Gold] [in capital]", "Unlocks building Big Ben"],
+		"uniques": ["Only available <after adopting [Patronage]>","[+25]% [Gold] [in capital]", "Unlocks building Big Ben"],
 		"era": "Medieval era",
 		"policies": [
 			{
