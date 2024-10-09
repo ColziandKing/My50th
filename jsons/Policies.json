@@ -94,7 +94,7 @@
 			},
 			{
 				"name": "Liberty Complete",
-				"uniques": ["Free Great Person","[-10]% unhappiness from the number of cities"]
+				"uniques": ["Free Great Person"]
 			}
 		]
 	},
@@ -455,7 +455,7 @@
 			},
 			{
 				"name": "Rationalism Complete",
-				"uniques": ["[1] Free Technologies",
+				"uniques": ["[1] Free Technologies","[-10]% unhappiness from the number of cities",
 					"May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
 				]
 			}
