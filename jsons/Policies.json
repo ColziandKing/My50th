@@ -1,4 +1,4 @@
-[
+ [
 	{
 		"name": "Tradition",
 		"era": "Ancient era",
@@ -29,7 +29,7 @@
 			},
 						{
 				"name": "Legalism",
-				"uniques":["Provides the cheapest [Culture] building in your first [4] cities for free"],
+				"uniques":["Provides a [Aqueduct] in your first [4] cities for free"],
 				"requires": ["Oligarchy"],
 				"row": 2,
 				"column": 4
@@ -43,14 +43,14 @@
 			},
 			{
 				"name": "Monarchy",
-				"uniques": ["[+1 Gold, +1 Happiness] per [2] population [in capital]"],
+				"uniques": ["[+1 Gold, +1 Happiness] per [2] population [in capital]","[+20]% unhappiness from the number of cities"],
 				"requires": ["Legalism"],
 				"row": 3,
 				"column": 5
 			},
 			{
 				"name": "Tradition Complete",
-				"uniques": ["[+15]% growth [in all cities]","Provides a [Aqueduct] in your first [8] cities for free","May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
+				"uniques": ["[+15]% growth [in all cities]","Provides the cheapest [Culture] building in your first [8] cities for free","May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
 			}
 		]
 	},
@@ -179,7 +179,8 @@
 				"name": "Harmony",
 				"requires": ["Theocracy"],
 				"uniques": [
-					"[+1 Happiness, +1 Food, +1 Faith, +1 Culture, -3 Production] <in cities with at least [7] [Population]>"
+					"[+1 Happiness, +1 Food, +1 Faith, +1 Culture, +3 Production] <in cities with at least [7] [Population]>",
+					"[-10]% Unhappiness from [Population] [in all cities]"
 				],
 				"row": 3,
 				"column": 1
@@ -282,7 +283,7 @@
 				"uniques": ["[+2] Happiness from each type of luxury resource"],
 				"requires": ["Mercantilism","Entrapreneurship"],
 				"row": 3,
-				"column": 3
+				"column": 2
 			},
 			{
 				"name": "Commerce Complete",
@@ -509,7 +510,7 @@
             		},
 			{
 				"name": "Freedom Complete",
-				"uniques": ["[+100]% Yield from every [Great Improvement]", "[+50]% Golden Age length"]
+				"uniques": ["[+100]% Yield from every [Great Improvement]", "[+50]% Golden Age length","[-20]% unhappiness from the number of cities"]
 			}
 		]
 	},
