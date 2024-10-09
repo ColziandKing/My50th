@@ -165,6 +165,15 @@
 				"column": 3
 			},
 			{
+				"name": "Harmony",
+				"requires": ["Theocracy"],
+				"uniques": [
+					"[+1 Happiness, +1 Food, +1 Faith, +1 Culture, -3 Production] <in cities with at least [7] [Population]>"
+				],
+				"row": 3,
+				"column": 1
+			},
+			{
 				"name": "Free Religion",
 				"uniques": ["[-10]% Culture cost of adopting new Policies"],
 				"requires": ["Mandate Of Heaven", "Reformation"],
@@ -554,7 +563,7 @@
                    		"Quantity of strategic resources produced by the empire +[100]%",
                     		"[+2] Movement <for [Great General] units>"
                 		],
-                		"requires": ["Militarism","Police State"],
+                		"requires": ["Militarism","Elite Forces","Police State"],
                 		"row": 3,
                 		"column": 3
             		},
