@@ -16,6 +16,17 @@
 				"row": 1,
 				"column": 4
 			},
+			{
+				"name": "Conservation",
+				"requires": ["Aristocracy"],
+				"uniques": [
+					"[+1 Gold] from every [Worker]",
+					"[+1 Gold] from [Fresh water] tiles [in all cities]",
+					"[+1 Gold] from every [Polder]"
+				],
+				"row": 2,
+				"column": 2
+			},
 						{
 				"name": "Legalism",
 				"uniques":["Provides the cheapest [Culture] building in your first [4] cities for free"],
@@ -242,22 +253,12 @@
 				"uniques": ["[-50]% maintenance on road & railroads", "[+2 Gold] from each Trade Route"
 				],
 				"row": 1,
-				"column": 2
+				"column": 4
 			},
-			{
-                		"name": "Trade Unions",
-                		"uniques": [
-                   			"[-33]% maintenance on road & railroads",
-                    			"[+1 Gold] from every [Harbor]",
-                    			"[+1 Gold] from every [Seaport]"
-                				],
-                		"row": 1,
-                		"column": 4
-            },
 			{
 				"name": "Entrapreneurship",
 				"uniques": [ "[+100]% Gold from Great Merchant trade missions","[Great Merchant] is earned [25]% faster"],
-				"requires": ["Trade Unions"],
+				"requires": ["Wagon Trains"],
 				"row": 2,
 				"column": 2
 			},
