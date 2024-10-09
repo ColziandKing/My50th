@@ -2,7 +2,7 @@
 	{
 		"name": "Tradition",
 		"era": "Ancient era",
-		"uniques": ["[+3 Culture] [in capital]", "[-25]% Culture cost of natural border growth [in all cities]","Only available <before adopting [Liberty]>","Unlocks building the Hanging Gardens"],
+		"uniques": ["[+3 Culture] [in capital]", "[-25]% Culture cost of natural border growth [in all cities]","Unlocks building the Hanging Gardens"],
 		"policies": [
 			{
 				"name": "Aristocracy",
@@ -57,7 +57,7 @@
 	{
 		"name": "Liberty",
 		"era": "Classical era",
-		"uniques": ["[+1 Culture] [in all cities]", "Only available <before adopting [Tradition]>", "Unlocks building the Pyramids"],
+		"uniques": ["[+1 Culture] [in all cities]", "Unlocks building the Pyramids"],
 		"policies": [
 			{
 				"name": "Republic",
@@ -147,7 +147,7 @@
 	},{
 		"name": "Piety",
 		"era": "Ancient era",
-		"uniques": ["[+100]% Production when constructing [Shrine] buildings [in all cities]", "[+100]% Production when constructing [Temple] buildings [in all cities]", "Unlocks building the Great Mosque of Djenne"],
+		"uniques": ["Only available <before adopting [Rationalism]>","[+100]% Production when constructing [Shrine] buildings [in all cities]", "[+100]% Production when constructing [Temple] buildings [in all cities]", "Unlocks building the Great Mosque of Djenne"],
 		"policies": [
 			{
 				"name": "Organized Religion",
@@ -409,7 +409,7 @@
 	{
 		"name": "Rationalism",
 		"era": "Renaissance era",
-		"uniques": ["[+10]% [Science] <while the empire is happy>", "Unlocks building the Porcelain Tower"],
+		"uniques": ["Only available <before adopting [Piety]>","[+10]% [Science] <while the empire is happy>", "Unlocks building the Porcelain Tower"],
 		"policies": [
 			{
 				"name": "Secularism",
