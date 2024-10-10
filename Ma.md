@@ -6,15 +6,7 @@ PolicyBranchIcons/Singularity
   offset: 0, 0
   index: -1
 
-			{
-                		"name": "Trade Unions",
-                		"uniques": [
-                    			"[+1 Gold] from every [Harbor]",
-                    			"[+1 Gold] from every [Seaport]"
-                				],
-                		"row": 1,
-                		"column": 4
-            },
+			"Gain a free [Stone Works] [in all cities]"
 
 
 {
