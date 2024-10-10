@@ -118,7 +118,7 @@
 		"outerColor": [240,240,240],
 		"innerColor": [8,25,115],
 		"uniqueName": "Mare Clausum",
-		"uniques": ["[+3 Gold] from every [Luxury resource]","Cannot build [Settler] units","Gain a free [Garden] [in all cities]"],
+		"uniques": ["[+3 Gold] from every [Luxury resource]","Cannot build [Settler] units"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
 			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
 			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","SÃ£o TomÃ© and PrÃ­ncipe","Silves","Sintra","Dili","Lamego",
