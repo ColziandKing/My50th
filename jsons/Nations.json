@@ -27,6 +27,30 @@
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
 	},
 	{
+	      "name": "Philipinas",
+	      "leaderName": "Jose Rizal",
+	      "startBias": ["Coast"],
+	      "adjective": ["Philipino"],
+	      "preferredVictoryType": "Cultural",
+	      "favoredReligion": "Christianity",
+	
+	      "startIntroPart1": "Your people gaze upon you with their hearts, José Rizal, national hero of all the Philippines. For thousands of years, the glimmering islands of this land have played host to one of the largest populations in the world, and has become a veritable melting pot for a great diversity of people; fusing together the cultures of Austronesians, Malay, Chinese, Spanish, British and Americans alike. Your ideals have forever shaped the course of Filipino history, and drives through the veins of your people their will for independence. After your execution at the hands of the Spanish colonists in 1896, your adherents rose up, and declared a new nation in the pacific, founded upon the principles of your life's work, and thus for this you are eternally honoured as the first Filipino.",
+		  "startIntroPart2": "O magnificent Rizal, your people call you to change their world once more. Can you defend this beautiful and tranquil homeland against all manner of foe? Can you forge a place for the Philippine Republic through peace and harmony with the world around you? Can you build a civilization that can stand the test of time?",
+	      "defeated": "The Philippine Republic is no more. What sorrow must fill your heart to bring such destruction upon this beautiful land",
+	      "introduction": "Welcome to the Philippines, traveller! I am José Rizal, and I seek only peace, so that we might learn, in harmony, of the cultures that we both nurtures",
+		 "neutralHello": "Mabuhay, the great leader!",
+	     "hateHello": "You are trash that must be exterminated from this beautiful world!!",
+		 "tradeRequest": "Our delegation has brought you trade offers that you may find interesting and Balut that you must try!",
+	     "declaringWar": "Sooner or later, you will only become a problem for us, and because of that we declare war on you!",
+		 "attacked": "So that's how it is, this beautiful country can't be at peace forever.",
+	
+	      "uniqueName": "Pearl of the Orient",
+	      "uniques": ["[+1 Culture] from [All] tiles [in all cities]","[+1 Culture] from every [Coast]","[+1 Culture] from every [Ocean]","Cannot build [Settler] units","Gain a free [Palengke (PA)] [in all cities]"],
+	      "outerColor": [57,189,191],
+		  "innerColor": [255,255,255],
+	      "cities": ["Manila","Cebu","Davao","Butuan","Caloocan","Iloilo","Quezon","Laguna","Vigan","Pangasinan","Baguio","Zamboanga","Olongapo","Legaspi","Sagada","Peurto Princesa","Bacolod","Calbayog","Pasig","Taguig","Leyte","Cotabato","Bacoor","Cabanatuan","Antipolo","Makati","Dasmarines","San Jose del Monte","El Nido"]
+	},
+	{
 		"name": "Philippines",
 		"leaderName": "Andres Bonifacio",
 		"adjective": ["Filipino"],
