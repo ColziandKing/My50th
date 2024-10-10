@@ -87,7 +87,7 @@
         "uniques": ["[+2 Science] from [Farm] tiles [in this city]"],
         "requiredTech": "Education"
     },
-	{ // shannaurelle's ph bonifacio unciv
+	{ 
 		"name": "Palengke (Manila)",
 		"replaces": "Market",
 		"uniqueTo": "Philippines",
@@ -134,7 +134,7 @@
 	{ 
 		"name": "Palengke (PA)",
 		"replaces": "Market",
-		"uniqueTo": "Pilipinas",
+		"uniqueTo": "Philipinas",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 23,
@@ -155,7 +155,7 @@
 	},
 	{
 	    "name": "Coral Church",
-	    "uniqueTo": "Pilipinas",
+	    "uniqueTo": "Philipinas",
 		"replaces": "Harbor",
 		"cost": 120,
 		"maintenance": 2,
