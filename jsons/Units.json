@@ -33,7 +33,7 @@
 	},
 	{
 	    "name": "Mga Katipunero",
-	    "uniqueTo": "Pilipinas",
+	    "uniqueTo": "Philipinas",
 		"replaces": "Rifleman",
 		"unitType": "Gunpowder",
 		"movement": 2,
