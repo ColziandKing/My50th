@@ -5,7 +5,14 @@ PolicyBranchIcons/Singularity
   orig: 50, 50
   offset: 0, 0
   index: -1
-
+ReligionIcons/Catholicism
+  rotate: false
+  xy: 328, 386
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+  
 			"Gain a free [Stone Works] [in all cities]"
 
 
