@@ -47,7 +47,7 @@
 		"attackSound": "shot"
 	},
 	{
-	    "name": "KKatipunero",
+	    "name": "Katipunero",
 	    "uniqueTo": "Pilipinas",
 		"replaces": "Rifleman",
 		"unitType": "Gunpowder",
