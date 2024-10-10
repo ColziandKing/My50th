@@ -45,7 +45,7 @@
 		 "attacked": "So that's how it is, this beautiful country can't be at peace forever.",
 	
 	      "uniqueName": "Pearl of the Orient",
-	      "uniques": ["[+2 Culture] from every [Coast]","[+2 Culture] from every [Ocean]","Cannot build [Settler] units","Gain a free [Coral Church] [in all coastal cities]"],
+	      "uniques": ["[+2 Culture] from every [Coast]","[+2 Culture] from every [Ocean]","[+2 Culture] from every [Atoll]","Cannot build [Settler] units","Gain a free [Coral Church] [in all coastal cities]"],
 	      "outerColor": [57,189,191],
 		  "innerColor": [255,255,255],
 	      "cities": ["Manila","Cebu","Davao","Butuan","Caloocan","Iloilo","Quezon","Laguna","Vigan","Pangasinan","Baguio","Zamboanga","Olongapo","Legaspi","Sagada","Peurto Princesa","Bacolod","Calbayog","Pasig","Taguig","Leyte","Cotabato","Bacoor","Cabanatuan","Antipolo","Makati","Dasmarines","San Jose del Monte","El Nido"]
