@@ -1,4 +1,15 @@
-
+game6.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Colziand
+  rotate: false
+  xy: 544, 424
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
 
 game5.png
 size: 1024, 1024
