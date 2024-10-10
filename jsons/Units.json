@@ -58,7 +58,7 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot",
-		"promotions": ["[KKatipunero] ability"]
+		"promotions": ["[KKKatipunero] ability"]
 	},
 {
 		"name": "Pathfinder", 
