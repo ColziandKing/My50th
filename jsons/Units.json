@@ -32,7 +32,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Katipunero",
+		"name": "KKatipunero",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo":"Philippines",
@@ -45,6 +45,20 @@
 		"uniques": [],
 		"promotions":["Woodsman","Medic II"],
 		"attackSound": "shot"
+	},
+	{
+	    "name": "KKatipunero",
+	    "uniqueTo": "Pilipinas",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 34,
+		"cost": 200,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot",
+		"promotions": ["[KKatipunero] ability"]
 	},
 {
 		"name": "Pathfinder", 
