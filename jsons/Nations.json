@@ -22,7 +22,7 @@
 		"outerColor": [255,128,0],
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
-		"uniques": ["[+1 Food] from [All] tiles [in all cities]", "Cannot build [Settler] units","Gain a free [Palengke (KO)] [in all cities]",
+		"uniques": ["[+1 Food] from [All] tiles [in all cities]", "Cannot build [Settler] units","Gain a free [Palengke] [in all cities]",
 			    "Military Units gifted from City-States start with [+1000] XP", "Cannot build [Scout] units"],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
 	},
@@ -46,7 +46,7 @@
 		"outerColor": [139,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Sovereign Tagalog Nation",
-		"uniques": ["[+1 Production] from every [Farm]","[+1 Production] from [All] tiles [in all cities]","Cannot build [Settler] units","Gain a free [Palengke (Manila)] [in all cities]",],
+		"uniques": ["[+1 Production] from every [Farm]","[+1 Production] from [All] tiles [in all cities]","Cannot build [Settler] units","Gain a free [IRRI] [in all cities]",],
 		"cities": ["Maynila","Cavite","Bulácan","Santa Cruz","Batangas","Bacolor","Cabanatuan","Tárlac","Vigan","Puerto Princesa","Davao","Aparri","Ilo-ilo","Zamboanga","Albay","Cebú",
 			"Iligan","Balanga","Tacloban","Surigao","Mórong","Bacolód","Tayabas","Tagbilaran","Daet","Catbalogan","Nueva Cáceres","Cápix","Sorsogon","Concepción","Binangonan",
 			"San José de Buenavista","Iba","Dumaguete","Calapan","Dagupan","Baler","Bayombong","La Trinidad","San Fernando","Ilagan","Cagayán","Binorungan","Bangued","Laoag"
