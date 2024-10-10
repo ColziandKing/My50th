@@ -72,7 +72,7 @@
         "specialistSlots": {"Merchant": 1},
         "hurryCostModifier": 15,
         "uniques": ["[+5]% [Production] [in this city]",
-            "[+25]% [Gold] [in this city]","Requires a [Market] [in this city]"],
+            "[+25]% [Gold] [in this city]","Only available <if [Market] is constructed in all [non-[Puppeted]] cities>",],
         "requiredTech": "Banking"
     },
 	{
@@ -200,7 +200,7 @@
 		"name": "Borobudur",
 		"faith": 5,
 		"isWonder": true,
-		"uniques": [ "Can only be built [in holy cities]","[3] free [Missionary] units appear"],
+		"uniques": ["Can only be built <in [Holy] cities>","[3] free [Missionary] units appear"],
 		"requiredTech": "Theology",
 		"quote": "'When you realize how perfect everything is, you will tilt your head back and laugh at the sky.' – Gautama Buddha"
 	},
@@ -210,7 +210,7 @@
         "gold": 4,
         "isNationalWonder": true,
         "uniques": ["[+1 Gold] from each Trade Route",
-            "Cost increases by [30] per owned city","Requires a [Market] in all cities"],
+            "Cost increases by [30] per owned city","Only available <if [Market] is constructed in all [non-[Puppeted]] cities>",],
         "requiredTech": "Guilds"
     },
 	 {
