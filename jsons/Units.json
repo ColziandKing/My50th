@@ -76,6 +76,18 @@
 		"attackSound": "arrow"
 	},
 	{
+		"name": "Pikeman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Landsknecht",
 		"unitType": "Sword",
 		"movement": 2,
