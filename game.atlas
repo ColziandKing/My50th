@@ -23,6 +23,13 @@ BuildingIcons/Palengke (KO)
   orig: 700, 700
   offset: 0, 0
   index: -1
+BuildingIcons/Palengke (Manila)
+  rotate: false
+  xy: 4, 4
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
 
 game3.png
 size: 512, 512
