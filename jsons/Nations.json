@@ -144,7 +144,7 @@
 		"innerColor": [167,52,31],
 		"uniqueName": "Spice Islanders",
 		"uniqueText": " After researching Astronomy, 3 coastal cities each provide 2 copies of unique Luxury Resources",
-    "uniques": ["Free [Great Merchant] appears <upon discovering [Astronomy] technology>",],
+    		"uniques": ["Free [Great Merchant] appears <upon discovering [Astronomy] technology>"],
 		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
 			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
 			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",
