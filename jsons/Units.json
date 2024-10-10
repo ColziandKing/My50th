@@ -32,20 +32,6 @@
 		"attackSound": "arrow"
 	},
 	{
-	    "name": "Mga Katipunero",
-	    "uniqueTo": "Philipinas",
-		"replaces": "Rifleman",
-		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 34,
-		"cost": 200,
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
-		"attackSound": "shot",
-		"promotions": ["[Katipunero] ability"]
-	},
-	{
 		"name": "Katipunero",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
