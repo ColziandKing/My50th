@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Battering Ram",
-		"uniqueTo": "Kolziand",
+		"uniqueTo": "Colziand",
 		"replaces": "Hoplite",
 		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
 		"movement": 3,
