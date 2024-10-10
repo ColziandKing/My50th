@@ -24,6 +24,13 @@ BuildingIcons/Coral Church
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Kolziand
+  rotate: false
+  xy: 300, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 
 game3.png
 size: 512, 512
