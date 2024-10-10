@@ -923,7 +923,7 @@ PolicyIcons/Young Pioneers
   orig: 50, 50
   offset: 0, 0
   index: -1
-ReligionIcons/Christianity
+ReligionIcons/Catholicism
   rotate: false
   xy: 328, 386
   size: 100, 100
