@@ -1,6 +1,7 @@
 # My50th
 My 50th coding to be done for Christ alone is my Lord and God
 
+"[+1 Production] from [All] tiles [in all cities]",
 game5.png
 size: 1024, 1024
 format: RGBA8888
