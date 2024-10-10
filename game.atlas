@@ -3,7 +3,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Kolziand
+NationIcons/Colziand
   rotate: false
   xy: 544, 424
   size: 99, 100
