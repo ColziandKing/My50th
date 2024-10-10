@@ -43,7 +43,7 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"uniques": [],
-		"promotions":["Woodsman"],
+		"promotions":["Woodsman","Medic II"],
 		"attackSound": "shot"
 	},
 {
