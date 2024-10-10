@@ -26,12 +26,11 @@
 			    "Military Units gifted from City-States start with [+1000] XP", "Cannot build [Scout] units"],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
 	},
-	
 	{
-	      "name": "Pilipinas",
+	      "name": "Philipinas",
 	      "leaderName": "Jose Rizal",
 	      "startBias": ["Coast"],
-	      "adjective": ["Pilipino"],
+	      "adjective": ["Philipino"],
 	      "preferredVictoryType": "Cultural",
 	      "favoredReligion": "Christianity",
 	
