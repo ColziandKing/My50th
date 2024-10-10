@@ -24,6 +24,26 @@ BuildingIcons/Palengke
   offset: 0, 0
   index: -1
 
+game4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Catholicism
+  rotate: false
+  xy: 700, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Uncivism
+  rotate: false
+  xy: 700, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
 game3.png
 size: 512, 512
 format: RGBA8888
@@ -921,13 +941,6 @@ PolicyIcons/Young Pioneers
   xy: 874, 4
   size: 50, 50
   orig: 50, 50
-  offset: 0, 0
-  index: -1
-ReligionIcons/Catholicism
-  rotate: false
-  xy: 328, 386
-  size: 100, 100
-  orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Eastern Orthodoxy
