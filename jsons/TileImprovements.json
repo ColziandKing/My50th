@@ -1,4 +1,15 @@
 [
+	{
+		"name": "Moai",
+		"uniqueTo": "Polynesia",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 2,
+		"turnsToBuild": 4,
+		"uniques": ["Can be built outside your borders","Can only be built on [Coastal] tiles", "[+1 Culture] for each adjacent [Moai]", 
+			    "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"techRequired": "Optics",
+		"shortcutKey": "M"
+	},
 {
 		"name": "Chateau",
 		"uniqueTo": "France",
@@ -11,7 +22,7 @@
 	},
 	{
 		"name": "Brazilwood Camp",
-		"uniqueTo": "Ethiopia",
+		"uniqueTo": "Brazil",
 		"terrainsCanBeBuiltOn": ["Jungle"],
 		"gold": 2,
 		"turnsToBuild": 7,
@@ -20,7 +31,7 @@
 	},
 		{
 		"name": "Feitoria",
-		"uniqueTo": "Spain",
+		"uniqueTo": "Portugal",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 7,
 		"gold": 1,
@@ -30,7 +41,7 @@
 	},
 	{
 		"name": "Kasbah",
-		"uniqueTo": "Songhai",
+		"uniqueTo": "Morocco",
 		"terrainsCanBeBuiltOn": ["Desert","Flood plains"],
 		"food": 1,
 		"production": 1,
