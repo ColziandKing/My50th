@@ -1,15 +1,4 @@
-game6.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationIcons/Kolziand
-  rotate: false
-  xy: 300, 600
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
+
 
 game5.png
 size: 1024, 1024
@@ -83,13 +72,6 @@ LeaderIcons/Andres Bonifacio
   xy: 4, 220
   size: 250, 250
   orig: 250, 250
-  offset: 0, 0
-  index: -1
-NationIcons/Pilipinas
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Philippines
