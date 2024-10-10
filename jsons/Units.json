@@ -16,6 +16,22 @@
 		"attackSound": "throw"
 	},
 	{
+		"name": "Horse Archer",
+		"unitType": "Archery",
+		"uniqueTo": "The Huns",
+		"replaces": "War Chariot",
+		"movement": 4,
+		"strength": 7,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus"],
+		"promotions": ["Accuracy I"],
+		"attackSound": "arrow"
+	},
+	{
 	    "name": "Mga Katipunero",
 	    "uniqueTo": "Pilipinas",
 		"replaces": "Rifleman",
