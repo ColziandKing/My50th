@@ -259,7 +259,7 @@
 			{
 				"name": "Mercenary Army",
 				"uniques": ["May buy [Landsknecht] units with [Gold] for [5] times their normal Production cost"],
-				"row": 2,
+				"row": 1,
 				"column": 4
 			},
 			{
