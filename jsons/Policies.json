@@ -254,7 +254,13 @@
 				"uniques": ["[-50]% maintenance on road & railroads", "[+2 Gold] from each Trade Route","May buy [Settler] units with [Gold] for [5] times their normal Production cost"
 				],
 				"row": 1,
-				"column": 3
+				"column": 2
+			},
+			{
+				"name": "Mercenary Army",
+				"uniques": ["May buy [Landsknecht] units with [Gold] for [5] times their normal Production cost"],
+				"row": 2,
+				"column": 4
 			},
 			{
 				"name": "Entrapreneurship",
@@ -265,15 +271,17 @@
 			},
 			{
 				"name": "Mercantilism",
-				"requires": ["Entrapreneurship"],
+				"requires": ["Wagon Trains"],
 				"uniques": ["[Gold] cost of purchasing items in cities [-25]%", "[+1 Science] from every [Mint]", "[+1 Science] from every [Market]",
 					"[+1 Science] from every [Bank]", "[+1 Science] from every [Stock Exchange]"],
 				"row": 2,
 				"column": 3
 			},
+			
 			{
-				"name": "Mercenary Army",
-				"uniques": ["May buy [Landsknecht] units with [Gold] for [5] times their normal Production cost"],
+				"name": "Protectionism",
+				"uniques": ["[+2] Happiness from each type of luxury resource"],
+				"requires": ["Mercenary Army"],
 				"row": 2,
 				"column": 5
 			},
@@ -284,15 +292,8 @@
                 			"[+1 Gold] from every [Trading post]","[+2 Culture] from each Trade Route","[+1 Food] from every [Trading post]"
             				],
             			"row": 3,
-            			"column": 2
+            			"column": 3
         		},
-			{
-				"name": "Protectionism",
-				"uniques": ["[+2] Happiness from each type of luxury resource"],
-				"requires": ["Mercenary Army"],
-				"row": 3,
-				"column": 4
-			},
 			{
 				"name": "Commerce Complete",
 				"uniques": ["[+1 Gold] from every [Customs house]",
