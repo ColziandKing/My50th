@@ -3,7 +3,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Pilipinas
+NationIcons/Kolziand
   rotate: false
   xy: 544, 424
   size: 99, 100
@@ -51,7 +51,7 @@ UnitIcons/Mga Katipunero
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Kolziand
+NationIcons/Pilipinas
   rotate: false
   xy: 300, 600
   size: 100, 100
