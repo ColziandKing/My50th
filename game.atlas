@@ -29,27 +29,6 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Katipunero
-  rotate: false
-  xy: 900, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Pilipinas
-  rotate: false
-  xy: 300, 600
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Coral Church
-  rotate: false
-  xy: 200, 700
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 ReligionIcons/Catholicism
   rotate: false
   xy: 700, 100
@@ -98,7 +77,7 @@ NationIcons/Philippines
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/KKatipunero
+TileSets/FantasyHex/Katipunero
   rotate: false
   xy: 112, 180
   size: 32, 32
