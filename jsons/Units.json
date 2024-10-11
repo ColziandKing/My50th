@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Only available <after adopting [Wagon Trains]>","Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+	{
 		"name": "Battering Ram",
 		"uniqueTo": "Colziand",
 		"replaces": "Hoplite",
