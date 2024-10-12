@@ -251,14 +251,14 @@
 		"policies": [
 			{
 				"name": "Wagon Trains",
-				"uniques": ["[-50]% maintenance on road & railroads", "[+2 Gold] from each Trade Route","May buy [Settler] units with [Gold] for [5] times their normal Production cost"
+				"uniques": ["[-50]% maintenance on road & railroads", "[+2 Gold] from each Trade Route"
 				],
 				"row": 1,
 				"column": 2
 			},
 			{
 				"name": "Mercenary Army",
-				"uniques": ["May buy [Landsknecht] units with [Gold] for [3] times their normal Production cost"],
+				"uniques": ["May buy [Landsknecht] units with [Gold] for [5] times their normal Production cost"],
 				"row": 1,
 				"column": 4
 			},
