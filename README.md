@@ -21,7 +21,13 @@ BuildingIcons/Palengke (Manila)
   orig: 700, 700
   offset: 0, 0
   index: -1
-
+PolicyIcons/Representation
+  rotate: false
+  xy: 1798, 1876
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 	{ 
 		"name": "Palengke (Manila)",
 		"replaces": "Market",
