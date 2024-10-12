@@ -210,7 +210,7 @@
         "gold": 4,
         "isNationalWonder": true,
         "uniques": ["[+1 Gold] from each Trade Route",
-            "Cost increases by [30] per owned city","Only available <if [Market] is constructed in all [non-[Puppeted]] cities>",],
+            "Cost increases by [30] per owned city","Only available <if [Market] is constructed in all [non-[Puppeted]] cities>"],
         "requiredTech": "Guilds"
     },
 	 {
