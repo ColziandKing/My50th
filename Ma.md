@@ -12,6 +12,13 @@ ReligionIcons/Catholicism
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyIcons/Planned Economy
+  rotate: false
+  xy: 1092, 1286
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
   
 			"Gain a free [Stone Works] [in all cities]"
 
