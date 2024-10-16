@@ -96,7 +96,7 @@
 		"outerColor": [251,255,206],
 		"innerColor": [255,177,9],
 		"uniqueName": "Treasures of Nineveh",
-		"uniques": ["Starts with [Autocracy] adopted","[+25]% [Science] [in annexed cities]","Gain a free [Royal Library] [in all cities]"]
+		"uniques": ["Starts with [Tradition] adopted","[+25]% [Science] [in annexed cities]","Gain a free [Royal Library] [in all cities]"]
 		"cities": ["Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",
 			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]
@@ -291,7 +291,7 @@
 		"innerColor": [239,236,148],
 		"favoredReligion": "Christianity",
 		"uniqueName": "City of Light",
-		"uniques": ["Starts with [Tradition] adopted","[+2 Culture] [in capital] <starting from the [Ancient era]>","[+2 Culture] [in capital] <starting from the [Medieval era]>","[+2 Culture] [in capital] <starting from the [Industrial era]>","[+2 Culture] [in capital] <starting from the [Atomic era]>"],
+		"uniques": ["Starts with [Autocracy] adopted","[+2 Culture] [in capital] <starting from the [Ancient era]>","[+2 Culture] [in capital] <starting from the [Medieval era]>","[+2 Culture] [in capital] <starting from the [Industrial era]>","[+2 Culture] [in capital] <starting from the [Atomic era]>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
